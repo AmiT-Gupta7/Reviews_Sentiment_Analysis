@@ -11,8 +11,8 @@ Example:
   
 Tools & Libraries:
 Language: Python
-Libraries: pandas, numpy – data handling
-nltk, re, spacy – text preprocessing
+Libraries: pandas, numpy, re, string, math, csv  – data handling
+nltk, sklearn – text preprocessing
 
 Methodology:
 1. Text Preprocessing: Lowercasing, removing punctuation, stop words, stemming/lemmatization.
